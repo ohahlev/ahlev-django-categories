@@ -11,7 +11,7 @@ setup(
     author='ahlev',
     author_email='ohahlev@gmail.com',
     include_package_data=True,
-    url='https://github.com/ohahlev/ahlev-django-categories/tree/ver-%s' % categories.__version__,
+    url='https://github.com/ohahlev/ahlev-django-categories/releases/tag/%s' % categories.__version__,
     packages=find_packages(),
     install_requires=[
           'django-fontawesome-5',

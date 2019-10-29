@@ -1,0 +1,17 @@
+MANIFEST.in
+README.rst
+setup.py
+ahlev_django_categories.egg-info/PKG-INFO
+ahlev_django_categories.egg-info/SOURCES.txt
+ahlev_django_categories.egg-info/dependency_links.txt
+ahlev_django_categories.egg-info/not-zip-safe
+ahlev_django_categories.egg-info/requires.txt
+ahlev_django_categories.egg-info/top_level.txt
+categories/__init__.py
+categories/admin.py
+categories/apps.py
+categories/models.py
+categories/tests.py
+categories/urls.py
+categories/views.py
+categories/templates/admin/base_site.html
