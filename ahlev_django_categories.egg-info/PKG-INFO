@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: ahlev-django-categories
-Version: 0.0.2
+Version: 0.0.4
 Summary: categories app using django framework
-Home-page: https://github.com/ohahlev/ahlev-django-categories/releases/tag/0.0.2
+Home-page: https://github.com/ohahlev/ahlev-django-categories/tree/0.0.4
 Author: ahlev
 Author-email: ohahlev@gmail.com
 License: UNKNOWN
