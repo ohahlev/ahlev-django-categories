@@ -1,1 +1,0 @@
-django-fontawesome-5

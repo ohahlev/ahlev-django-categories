@@ -1,7 +1,4 @@
 env/
-categories.egg-info/
 dist/
-categories/migrations/
-.vscode
-.setup.py.swp
+.vscode/
 *.pyc
