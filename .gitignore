@@ -1,4 +1,5 @@
-env/
-dist/
 .vscode/
+dist/
+*.egg-info/
+tags/migrations/
 *.pyc
