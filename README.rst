@@ -2,4 +2,5 @@
 ahlev-django-categories
 =======================
 
-Categories App using Django Framework
+https://test.pypi.org/project/ahlev-django-categories
+

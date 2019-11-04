@@ -8,6 +8,8 @@ setup(
     name='ahlev-django-categories',
     version=categories.__version__,
     description='categories app using django framework',
+    long_description='categories app using django framework',
+    long_description_content_type='text/x-rst',
     author='ahlev',
     author_email='ohahlev@gmail.com',
     include_package_data=True,
