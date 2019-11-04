@@ -1,5 +1,5 @@
 .vscode/
 dist/
 *.egg-info/
-tags/migrations/
+*/migrations/
 *.pyc
